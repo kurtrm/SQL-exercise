@@ -63,6 +63,7 @@ where boxes.warehouse in
 );
 -- 3.16 Add Index for column "Warehouse" in table "boxes"
     -- !!!NOTE!!!: index should NOT be used on small tables in practice
+
 -- 3.17 Print all the existing indexes
     -- !!!NOTE!!!: index should NOT be used on small tables in practice
 -- 3.18 Remove (drop) the index you added just
